@@ -34,6 +34,11 @@ tns plugin add nativescript-sentry
 
 # Config
 
+Your project's dsn url can be found in the DSN field on the keys page of the sentry dashboard here:
+```
+https://sentry.io/settings/<organization-slug>/projects/<project-name>/keys/
+```
+
 ### Without Angular
 
 ```typescript
